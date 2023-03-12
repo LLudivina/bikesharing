@@ -2,10 +2,10 @@
 # Overview of Project
 Tableau is a popular tool to use when providing data visualization.  It is considered to be easy to use and understand. For this module, Tableau Public, python, jupyter notebook, and pandas were used.  Tableau uses sheets and dashboards to create stories.  A story was created for this project and can be found at the following link.
 
-# NYC City Bike Analysis Story Link
+## NYC City Bike Analysis Story Link
 [link to dashboard](https://public.tableau.com/app/profile/ludivina.lemay "link to dashboard")
 
-# *Purpose*
+## *Purpose*
 The purpose of this project was to use Tableau to create visualizations for a Citi Bike program.
 
 # Results
