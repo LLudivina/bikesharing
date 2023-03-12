@@ -21,7 +21,7 @@ Later, the data was imported to Tableau and vrious visualizations were made for 
 
 ## *Figure 2*
 
-![Alt text](Resources/all.png)
+![Alt text](all.png)
 
 Some key findings for this project were the following.
 1. About 81% of Citi bike users are Subscribers
