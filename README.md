@@ -15,7 +15,7 @@ To analyze the data, the "tripduration" column in the data was first converted t
 
 ## *Figure1*
 
-![Alt text](Resources/both.png)
+![Alt text](both.png)
 
 Later, the data was imported to Tableau and vrious visualizations were made for checkout times for users, checkout times by gender, trips by weekday per hour, trips by gender(weekday per hour), and user trips by gender by weekday. Figure 2 shows a quick view of all the visualizations combined.  However, the link included above shows the interactive storybook. 
 
